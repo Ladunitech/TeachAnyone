@@ -1,0 +1,2 @@
+# TeachAnyone
+permalink: /index.html
